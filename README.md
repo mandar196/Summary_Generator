@@ -17,17 +17,12 @@ The projects has following major parts:
 # Running the project:
 1-Open Ananconda command prompt and move to your project home directory.
 2-Run app.py using below command to start Flask API python app.py
-3-Navigate to the localhost to view the application home page. Localhost: http://127.0.0.1:5000/ or http://localhost:5000
+3-Navigate to the localhost to view the application home page. Localhost: http://127.0.0.1:5000/
 4-Enter the text to summarize in the texbox and hit Summarize button.
 5-If everything goes well, you should be able to see the summarized version of the text on the results page.
 
 # Screenshots
 
-![Screenshot (22)](https://user-images.githubusercontent.com/61036755/91709734-caec4d00-eba0-11ea-8d31-526e101002be.png)
-
-![Uploading Screenshot (25).png…]()
-
-![Uploading Screenshot (26).png…]()
 
 If you like this repo, please don't forget to give a ⭐.
 
