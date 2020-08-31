@@ -22,3 +22,12 @@ The projects has following major parts:
 5-If everything goes well, you should be able to see the summarized version of the text on the results page.
 
 # Screenshots
+
+![Screenshot (22)](https://user-images.githubusercontent.com/61036755/91709734-caec4d00-eba0-11ea-8d31-526e101002be.png)
+
+![Uploading Screenshot (25).png…]()
+
+![Uploading Screenshot (26).png…]()
+
+If you like this repo, please don't forget to give a ⭐.
+
