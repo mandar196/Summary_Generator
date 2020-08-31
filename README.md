@@ -4,9 +4,9 @@ Used Flask API to integrate,python script with a web application. Deployment is 
 # Requirements:
 You must have following python libararies installed on your machine. Please refer to requirements.txt file for details.
 
-1.Flask (for creating web application)
-2.NLTK (for natural language processing)
-3.Networkx (for using graph based algorithms)
+1.Flask (for creating web application).
+2.NLTK (for natural language processing).
+3.Networkx (for using graph based algorithms).
 
 # Project structure:
 The projects has following major parts:
